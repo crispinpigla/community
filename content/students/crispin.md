@@ -18,7 +18,6 @@ short_description: J'aime les belles lettres, le fromage et les pages écornées
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
 description:
-    ceci est une looooooooooooooooooooongue descriptioooooooooooooooooooooooooooooooooooooooooooon.
     Je donne une longue desption : J'aime du bon fromage , de belles plages et des lettres écornés.
 
 # image must be located in content/images/students
